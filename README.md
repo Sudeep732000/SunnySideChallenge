@@ -1,1 +1,3 @@
 # SunnySideChallenge
+
+This was a challenge provided by the Frontend Mentor Platform to build a landing page by just using Html & Css...
